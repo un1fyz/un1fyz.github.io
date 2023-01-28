@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'shouxie';
+    src: url('../font/1.ttf');   
+}
+
+body {
+    font-family: 'shouxie';
+}
