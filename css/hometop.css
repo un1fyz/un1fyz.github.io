@@ -92,7 +92,7 @@ span.recent-post-top-text {
     background: var(--bywind-theme);
     color: var(--bywind-white);
     padding: 2px 8px;
-    font-size: .6rem;
+    font-size: .3rem;
     border-radius: 12px 0 12px 0;
     transition: .3s;
     cursor: pointer
@@ -372,7 +372,7 @@ div#banners {
   
 
   .banners-title-big {
-    font-size: 36px;
+    font-size: 22px;
     line-height: 1;
     font-weight: bold;
     margin-bottom: 8px;
