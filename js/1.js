@@ -105,3 +105,4 @@ if(! (navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mob
 
     window.addEventListener('click',function(){rmf.showRightMenu(false);});
 }
+
